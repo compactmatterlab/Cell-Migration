@@ -9,6 +9,7 @@ Cell_Migration_BD - Linearly varies binding site density from 5-7
 
 Cell_Migration_dT - Simulates migration at increasing time steps
 
+
 Multi factor simulations
 
 Cell_Migration_CL1 - Radomly assignes values for fiber density, fiber alignment, and fiber diameter 
